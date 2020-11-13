@@ -11,7 +11,9 @@ public class Application {
 		String response = input.nextLine();
 
 		System.out.println("you entered: " + response);
-		System.out.println("Thank you, for entering the input");
+
+		System.out.println("From the main-branch");
+
 		input.close();
 	}
 
