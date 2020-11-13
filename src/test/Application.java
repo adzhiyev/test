@@ -11,6 +11,7 @@ public class Application {
 		String response = input.nextLine();
 
 		System.out.println("you entered: " + response);
+		System.out.println("Have a good day");
 		input.close();
 	}
 
