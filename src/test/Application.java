@@ -12,7 +12,12 @@ public class Application {
 
 		System.out.println("you entered: " + response);
 
+
 		System.out.println("From the main-branch");
+
+
+		
+		System.out.println("From the feature-branch");
 
 		input.close();
 	}
