@@ -18,6 +18,8 @@ public class Application {
 
 		
 		System.out.println("From the feature-branch");
+		
+		System.out.println("This should be in the feature-branch, not the main branch!");
 
 		input.close();
 	}
