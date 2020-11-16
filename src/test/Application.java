@@ -22,6 +22,7 @@ public class Application {
 		System.out.println("This should be in the feature-branch, not the main branch!");
 		
 		System.out.println("adding more code to main branch.");
+		System.out.println("This version will have a tag created");
 		input.close();
 	}
 
